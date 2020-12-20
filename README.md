@@ -1,0 +1,1 @@
+# 50-method-of-numpy
